@@ -29,18 +29,18 @@ class ProductList extends StatefulWidget {
 
 class _ProductListState extends State<ProductList> {
   List<Product> products = [
-    Product("Product 1", 310.0),
-    Product("Product 2", 320.0),
-    Product("Product 3", 330.0),
+    Product("Product 1", 30.0),
+    Product("Product 2", 32.0),
+    Product("Product 3", 33.0),
     Product("Product 4", 330.0),
-    Product("Product 5", 340.0),
-    Product("Product 6", 350.0),
-    Product("Product 7", 360.0),
-    Product("Product 8", 370.0),
-    Product("Product 9", 380.0),
-    Product("Product 10", 390.0),
-    Product("Product 11", 400.0),
-    Product("Product 12", 410.0),
+    Product("Product 5", 34.0),
+    Product("Product 6", 35.0),
+    Product("Product 7", 36.0),
+    Product("Product 8", 37.0),
+    Product("Product 9", 38.0),
+    Product("Product 10", 39.0),
+    Product("Product 11", 40.0),
+    Product("Product 12", 41.0),
 
 
   ];
